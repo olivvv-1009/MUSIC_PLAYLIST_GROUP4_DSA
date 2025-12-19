@@ -1,6 +1,8 @@
 🎵 Music Playlist Manager - Data Structures Project
 
-Dự án xây dựng ứng dụng quản lý danh sách phát nhạc sử dụng cấu trúc dữ liệu Danh sách liên kết đôi (Doubly Linked List). Dự án bao gồm module so sánh hiệu năng thuật toán thực tế.
+Dự án xây dựng ứng dụng quản lý danh sách phát nhạc sử dụng cấu trúc dữ liệu Doubly Linked List. 
+
+Dự án bao gồm module so sánh hiệu năng thuật toán thực tế.
 
 🚀 Tính năng chính
 -Quản lý Playlist: Thêm, xóa bài hát và duyệt danh sách hai chiều (Next/Previous).
