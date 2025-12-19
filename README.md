@@ -9,7 +9,9 @@ Dự án xây dựng ứng dụng quản lý danh sách phát nhạc sử dụng
 
 🛠 Công nghệ sử dụng
 -Ngôn ngữ: C# (.NET Framework/Core).
+
 -Giao diện: Windows Forms.
+
 -Cấu trúc dữ liệu: Doubly Linked List (Tự cài đặt).
 
 📂 Hướng dẫn cài đặt và Chạy dự án
